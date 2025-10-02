@@ -1,4 +1,4 @@
-# AWS-DevOps-
+# DevSecOps Observability Platform Construction
 CICD + 보안 + 모니터링
 
 ## 멤버 구성
