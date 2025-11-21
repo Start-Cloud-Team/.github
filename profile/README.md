@@ -11,4 +11,4 @@ CICD + 보안 + 모니터링
 취약점이 있는 오픈 소스 배포 후 발생하는 문제를 관측하고 보안 도구를 통합하므로서 안정적인 서비스 운영 체계 설계
 
 ## WBS
-<img width="2703" height="884" alt="image" src="https://github.com/user-attachments/assets/0bd3fbf4-cbeb-4d5d-bcc2-6186460fb16e" />
+<img width="2041" height="734" alt="image" src="https://github.com/user-attachments/assets/631788d1-8ab5-45b2-82c1-0185feeece49" />
